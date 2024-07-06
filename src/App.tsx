@@ -25,6 +25,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
+      <img src="https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1679921049/Image_URL_header/Image_URL_header-png?_i=AA" alt="fallback_img" width="300" height="200"></img>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
